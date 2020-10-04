@@ -32,6 +32,22 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: 'cormorant_garamondlight';
+    src: url('cormorantgaramond-light-webfont.woff2') format('woff2'),
+         url('cormorantgaramond-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cormorant_garamondlight';
+    src: url('cormorantgaramond-lightitalic-webfont.woff2') format('woff2'),
+         url('cormorantgaramond-lightitalic-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
 
 p {
   font-family: 'hk_groteskmedium_legacy', sans;
@@ -39,6 +55,7 @@ p {
 
 h1 {
   font-family: 'cormorant_garamondregular', serif;
+    font-weight: 300;
 }
 
 h2 {
