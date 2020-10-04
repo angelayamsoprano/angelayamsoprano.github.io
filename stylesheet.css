@@ -34,16 +34,16 @@
 
 @font-face {
     font-family: 'cormorant_garamondlight';
-    src: url('cormorantgaramond-light-webfont.woff2') format('woff2'),
-         url('cormorantgaramond-light-webfont.woff') format('woff');
+    src: url('/fonts/cormorantgaramond-light-webfont.woff2') format('woff2'),
+         url('/fonts/cormorantgaramond-light-webfont.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'cormorant_garamondlight';
-    src: url('cormorantgaramond-lightitalic-webfont.woff2') format('woff2'),
-         url('cormorantgaramond-lightitalic-webfont.woff') format('woff');
+    src: url('/fonts/cormorantgaramond-lightitalic-webfont.woff2') format('woff2'),
+         url('/fonts/cormorantgaramond-lightitalic-webfont.woff') format('woff');
     font-weight: 300;
     font-style: italic;
 }
